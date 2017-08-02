@@ -5,7 +5,9 @@
 
 # 运行要求：
 1.安装编译好htk工具并添加到环境变量；
+
 2.安装好matlab2016b，并确保python可以调用它；
+
 3.python3.5环境，安装好tensorflow；
 
 # 流程：
