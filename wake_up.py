@@ -11,8 +11,8 @@ import os
 
 #地址
 wav_files='wav\\'
-fbank_files='wake-up-word\\'
-txt_files='txt\\'
+fbank_files='feature\\'
+txt_files='feature-translated\\'
 #录制十次，每次五秒
 def record():
 	for x in range(0,4):
