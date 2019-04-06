@@ -1,7 +1,7 @@
 # wake_up
 **基于DNN神经网络的简单语音唤醒*
 
-### <font color=red ###这个项目已不在维护，使用的也是早期的tensorflow版本###
+### <font color=red> ###这个项目已不在维护，使用的也是早期的tensorflow版本###
 这个项目主要思想是基于[**Small-footprint keyword spotting using deep neural networks**](https://ieeexplore.ieee.org/abstract/document/6854370/)
 
 关键词：**“hello，小瓜”**
